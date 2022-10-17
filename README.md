@@ -54,10 +54,10 @@ main（分支） -- > 远程main分支
 
 
 
-## week01作业
+## week02作业
 
 ```
-xiaotun-project/week01/作业.md
+xiaotun-project/week02/作业.md
 ```
 
 
